@@ -1,7 +1,6 @@
 {
-
-  "@@locale": "fr_FR",
-
-  "title": "Flutter Demo FR",
-  "push_button": "Vous avez appuyé sur le bouton\u00A0:"
+    "@@locale": "fr",
+    "@@last_modified": "2024-02-28T11:29:14+01:00",
+    "title": "Démo Flutter FR 5",
+    "push_button": "Vous avez appuyé sur le bouton\\u00A05:"
 }
