@@ -4,6 +4,6 @@
     "@@last_modified": "2024-02-28T12:10:31+01:00",
 
     "title": "Flutter Demo EN 9",
-    "push_button": "You have pushed the button {count} times\u2026"
+    "push_button": "You have pushed the button {counter, plural, =0{no time} =1{1 time} other{{counter} times}}\u2026"
 
 }
