@@ -1,6 +1,6 @@
 {
     "@@locale": "fr",
-    "@@last_modified": "2024-02-28T15:21:29+01:00",
+    "@@last_modified": "2024-02-28T15:54:49+01:00",
     "title": "Démo Flutter FR 9",
-    "push_button": "Vous avez appuyé {count} fois sur le bouton…"
+    "push_button": "Vous avez appuyé {counter, plural, =0{aucune fois} =1{1 fois} other{{counter} fois}} sur le bouton…"
 }
